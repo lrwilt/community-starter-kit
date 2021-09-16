@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+* "When adding an issue be sure to use the template and add tags."
+* "Commits to the main branch are restricted."
