@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome bot is an app that welcomes new users and contributors to the community
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It engages with people to let them know they are valuable members when a human isn't available.
 
 ## Getting started
 
